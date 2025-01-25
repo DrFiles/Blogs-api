@@ -1,0 +1,125 @@
+{
+    "blogs": [
+      {
+        "name": "Sportsmine",
+        "title": "Your Ultimate Sports Streaming Companion",
+        "description": "Sportsmine is a modern Android application designed to provide a seamless sports streaming experience. Stay connected with your favorite sports events, matches, and channels all in one place with our user-friendly interface and smooth playback capabilities.",
+        "imageUrl": "https://github.com/samyak2403/Sportsmine/blob/main/app/src/main/res/drawable/ic_tv.png"
+      },
+      {
+        "name": "HealthFirst",
+        "title": "10 Tips for a Healthier Life",
+        "description": "Discover simple and effective tips to improve your overall well-being.",
+        "imageUrl": "https://example.com/images/healthy-life.jpg"
+      },
+      {
+        "name": "TravelTales",
+        "title": "Top Destinations for 2025",
+        "description": "A guide to the most exciting travel destinations for the coming year.",
+        "imageUrl": "https://example.com/images/top-destinations.jpg"
+      },
+      {
+        "name": "CodeCrafters",
+        "title": "Best Practices in Web Development",
+        "description": "Learn about the essential best practices to create efficient web applications.",
+        "imageUrl": "https://example.com/images/web-dev.jpg"
+      },
+      {
+        "name": "FitnessGuru",
+        "title": "5-Minute Workouts",
+        "description": "Effective workouts that fit into even the busiest schedule.",
+        "imageUrl": "https://example.com/images/5-minute-workout.jpg"
+      },
+      {
+        "name": "CulinaryDelights",
+        "title": "Exquisite Recipes for Foodies",
+        "description": "Delight your taste buds with these gourmet recipes.",
+        "imageUrl": "https://example.com/images/recipes.jpg"
+      },
+      {
+        "name": "EcoWarriors",
+        "title": "How to Live Sustainably",
+        "description": "Practical steps you can take to reduce your environmental impact.",
+        "imageUrl": "https://example.com/images/sustainability.jpg"
+      },
+      {
+        "name": "ArtAndSoul",
+        "title": "Exploring Modern Art Movements",
+        "description": "Dive into the fascinating world of modern art and its key movements.",
+        "imageUrl": "https://example.com/images/modern-art.jpg"
+      },
+      {
+        "name": "HistoryBuff",
+        "title": "Hidden Stories from the Past",
+        "description": "Uncover lesser-known historical events that shaped our world.",
+        "imageUrl": "https://example.com/images/history.jpg"
+      },
+      {
+        "name": "TechChronicles",
+        "title": "The Rise of Quantum Computing",
+        "description": "An introduction to quantum computing and its future potential.",
+        "imageUrl": "https://example.com/images/quantum-computing.jpg"
+      },
+      {
+        "name": "LifeHacks",
+        "title": "Everyday Tricks to Simplify Life",
+        "description": "Ingenious hacks to make your daily life easier and more enjoyable.",
+        "imageUrl": "https://example.com/images/life-hacks.jpg"
+      },
+      {
+        "name": "AdventureQuest",
+        "title": "Ultimate Guide to Hiking Trails",
+        "description": "Plan your next adventure with our comprehensive hiking trail guide.",
+        "imageUrl": "https://example.com/images/hiking.jpg"
+      },
+      {
+        "name": "FinancialFreedom",
+        "title": "Tips for Smart Investments",
+        "description": "Learn how to grow your wealth with these investment strategies.",
+        "imageUrl": "https://example.com/images/investments.jpg"
+      },
+      {
+        "name": "PetLovers",
+        "title": "Caring for Your Furry Friends",
+        "description": "Essential tips for keeping your pets happy and healthy.",
+        "imageUrl": "https://example.com/images/pets.jpg"
+      },
+      {
+        "name": "GamerZone",
+        "title": "Top Games of the Year",
+        "description": "A roundup of the best video games released this year.",
+        "imageUrl": "https://example.com/images/games.jpg"
+      },
+      {
+        "name": "FashionForward",
+        "title": "Trends to Watch This Season",
+        "description": "Stay ahead of the curve with our guide to the latest fashion trends.",
+        "imageUrl": "https://example.com/images/fashion.jpg"
+      },
+      {
+        "name": "AutoMania",
+        "title": "Innovations in Electric Vehicles",
+        "description": "Discover the latest advancements in electric vehicle technology.",
+        "imageUrl": "https://example.com/images/electric-vehicles.jpg"
+      },
+      {
+        "name": "BookWorms",
+        "title": "Must-Read Books of 2025",
+        "description": "Our curated list of books you shouldn't miss this year.",
+        "imageUrl": "https://example.com/images/books.jpg"
+      },
+      {
+        "name": "MovieBuff",
+        "title": "Top Blockbusters of the Year",
+        "description": "A look at the highest-grossing and most popular movies of the year.",
+        "imageUrl": "https://example.com/images/movies.jpg"
+      },
+      {
+        "name": "DIYMasters",
+        "title": "Creative Projects for Your Home",
+        "description": "Simple and fun DIY projects to spruce up your living space.",
+        "imageUrl": "https://example.com/images/diy.jpg"
+      }
+    ]
+  }
+  
